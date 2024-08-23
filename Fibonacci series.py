@@ -11,4 +11,4 @@ while a < 1000:
     a, b = b, a+b
 
 i = 256*256
-print('The value of i is', i)
+print('The value :', i)
